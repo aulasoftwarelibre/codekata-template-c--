@@ -1,4 +1,4 @@
-GTEST_DIR = /home/marcos/Repositories/R/P2/googletest-release-1.8.1/googletest
+GTEST_DIR = ./googletest-release-1.8.1/googletest
 
 CPPFLAGS += -isystem $(GTEST_DIR)/include
 
