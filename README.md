@@ -2,4 +2,4 @@
 
 To compile and run the test just use the Autocompiler script by executing the following command:
     
-    ./Autodir
+    ./Autocompiler.sh
